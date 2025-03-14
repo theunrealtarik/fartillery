@@ -1,0 +1,13 @@
+{
+    "name": "Fartillery",
+    "version": "2.0.1",
+    "title": "Fartillery",
+    "author": "theunrealtarik",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.0",
+        "? lightArtillery >= 0.6.27",
+        "? bigger-artillery >= 0.7.1"
+    ],
+    "description": "FART FAAART FAAAAAAAAAAART"
+}
