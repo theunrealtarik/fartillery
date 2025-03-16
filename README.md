@@ -5,4 +5,4 @@ FART FART FART FAAART FART FAAAAAAAAAAAAAAAAART FART FART FAAAAAAAAAAAAAAAAAAAAA
 
 
 # Credits
-I don't really know how to code mods for Factorio, I took [](https://mods.factorio.com/mod/Epic-Artillery-Sounds)
+I don't really know how to code mods for Factorio, so I borrowed [this gentleman's code.](https://mods.factorio.com/mod/Epic-Artillery-Sounds)
